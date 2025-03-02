@@ -1,0 +1,17 @@
+ID_Consultor,Nombre,Pais_local,Delivery,Moneda_acuerdo,Costo_Dia_Solo_local,Costo_Dia_Pareja_local
+1,Pablo Giménez,Argentina,"Uruguay, Chile, Argentina",ARS,900000,780000
+2,Luján Brinzoni,Argentina,"Uruguay, Chile, Argentina",ARS,900000,780000
+3,Eugenia Ferreri,Argentina,"Uruguay, Chile, Argentina",ARS,400000,400000
+4,Ramiro Etchegaray,Argentina,"Uruguay, Chile, Argentina",ARS,400000,400000
+5,Sergio Ledesma,Argentina,"Uruguay, Chile, Argentina, Brasil",USD,0,0
+6,Marcela Contigiani,Argentina,"Uruguay, Chile, Argentina",ARS,900000,780000
+7,Laura Roubakhine,Argentina,"Uruguay, Chile, Argentina",USD,0,0
+8,Adilson Sestenari,Brasil,Brasil,BRL,6250,5750
+9,Catia DiStasi,Brasil,Brasil,BRL,6250,5750
+10,Silvia Abreu,Brasil,Brasil,BRL,7000,7000
+11,Juliana Clemente,Brasil,Brasil,BRL,4000,4000
+12,Pablo Carter,México,México,USD,1200,1200
+13,Piedad Umaña,Colombia,"Colombia, México",USD,1100,1100
+14,Jazmin Rodriguez,Colombia,Colombia,USD,750,750
+15,Erika Reyes,México,México,USD,0,0
+16,Georgina Gonzalez,México,México,USD,1250,1250
